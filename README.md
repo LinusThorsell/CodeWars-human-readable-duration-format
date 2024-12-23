@@ -12,7 +12,7 @@ Remember to use the plural forms of units when their values exceed one (e.g., â€
 
 ### Basic testcases
 
-There are many more testcases in the [tests](/tests/test_solution.cpp) file.
+There are more testcases in the [tests](/tests/test_solution.cpp) file.
 
 ```c++
 #include <gtest/gtest.h>
