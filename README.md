@@ -1,6 +1,6 @@
 ## Coding challenge - CodeWars - Human readable duration format
 
-Source of the challenge: https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/cpp
+Source of the challenge: https://www.codewars.com/kata/52742f58faf5485cae000b9a
 
 ### Summary of challenge - Authored by ChatGPT
 
