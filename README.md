@@ -2,7 +2,7 @@
 
 Source of the challenge: https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/cpp
 
-### Summary of problem - Authored by ChatGPT
+### Summary of challenge - Authored by ChatGPT
 
 Write a function that transforms a non-negative integer of seconds into a human-readable duration. If the input is zero, return “now.” Otherwise, break down the total seconds into years (365 days), days, hours, minutes, and seconds. The result must be listed in descending order of significance and must include only those units that have non-zero values.
 
