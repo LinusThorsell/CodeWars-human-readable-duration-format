@@ -3,6 +3,6 @@
 
 #include <string>
 
-int solution(int number);
+std::string format_duration(int seconds);
 
 #endif

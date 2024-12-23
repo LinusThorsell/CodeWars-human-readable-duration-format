@@ -5,8 +5,7 @@
 using namespace std;
 
 int main() {
-
-  cout << "Solution: " << solution(10) << endl;
+  cout << format_duration(3770);
 
   return 0;
 }
